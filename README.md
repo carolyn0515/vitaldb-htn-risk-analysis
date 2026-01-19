@@ -2,7 +2,8 @@
 ### EDA · Statistical Test · Logistic Regression · ML Modeling · SHAP · Clustering (UMAP-Gower)
 
 ---
-👉 **[Final Report (Figma)](https://www.figma.com/slides/Efi3PV7WIyAzMz3uEmDp5P/BPdus_%EA%B9%80%EB%82%98%EA%B2%BD_%EC%A3%BC%EC%98%88%EB%82%98?node-id=159-909&t=tVASdCtPwDKJNGhY-1)**
+### 📄 Final Report
+👉 **[View Final Report (Google Drive)](https://drive.google.com/file/d/1dTvgoVl_z42B0q4FXIjHD4astnj2AOd_/view?usp=drive_link)**
 ---
 
 ## 📌 1. 프로젝트 개요 (Project Overview)
